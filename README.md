@@ -12,12 +12,10 @@ I will also explain the reasons why I chose spacy and not medspacy/scispacy etc 
 
 🧪
 
-Hopefully this will save future individuals going on the same journey the pain I went through working this out.
+Hopefully this will save future individuals going on the same journey the pain I went through working this out. If you do use them or want to collaborate then either reach out to me on github or submit and issue/pull request. 
 
 🩺
 
 Enjoy!
 
-Disclaimer: Please read the paper that accompanies them before playing with the pipelines. If these models are used in production on another site they are likely to underperform the original training sites performance and they cannot be relied upon alone to accurately identify IBD cohorts. 
-
-However, if you do use them or want to collaborate then either reach out to me on github or submit and issue/pull request. 
+**Disclaimer:** Please read the paper that accompanies them before using the pipelines. If these models are used in production on another site they are likely to underperform the original training sites performance. They cannot be relied upon alone to accurately identify IBD cohorts, especially if used in isolation.
